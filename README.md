@@ -3,12 +3,10 @@
 
 Current OS 10.10
 
-## System Preferences
+## Step 1: System Preferences
 
 ### Desktop and Screensaver
 
-- Desktop backgrounds:
-  -
 - Screensaver: Ken Burns, Cosmos
 
 ### Dock
@@ -40,4 +38,36 @@ Remove all notifications from:
 
 - Uncheck: `Show day of the week`
 
+## Step 2: Install Xcode
+
+- Install Xcode from the App store
+- Open Xcode and accept the terms and conditions
+- Install Xcode command line tools:
+
+```
+xcode-select --install
+```
+
+## Finder configuration
+
+## Homebrew
+
+## Git
+
+## Node
+
+## Dotfiles
+
 ## Applications to install
+
+- Chrome
+- 1Password
+- iTerm2
+- Alfred
+- F.lux
+- Dropbox
+- Spectacle
+- Sublime Text
+- Atom
+- Unarchiver
+- Rdio
