@@ -1,7 +1,7 @@
 # fresh-mac
 > Guide for how I set up a new machine
 
-Current OS 10.10
+OS X 10.10
 
 ## Step 1: System Preferences
 
@@ -52,9 +52,26 @@ xcode-select --install
 
 ## Homebrew
 
+Install Homebrew
+
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile
+brew doctor && brew update
+```
+
 ## Git
 
+git comes pre-installed on OS X, but let's use the homebrew version so we can update it when necessary.
+
+```
+brew install git
+```
+
+
 ## Node
+
+- nvm
 
 ## Dotfiles
 
