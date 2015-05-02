@@ -120,14 +120,14 @@ nvm alias default stable # set the stable version of node as the default in any 
 
 ## Applications to install
 
-- Chrome
-- 1Password
-- iTerm2
-- Alfred
-- F.lux
-- Dropbox
-- Spectacle
-- Sublime Text
-- Atom
-- Unarchiver
-- Rdio
+- [Chrome](http://www.google.com/chrome/)
+- [1Password](https://agilebits.com/onepassword)
+- [iTerm2](http://iterm2.com/)
+- [Alfred](http://www.alfredapp.com/#download)
+- [F.lux](https://justgetflux.com/)
+- [Dropbox](https://www.dropbox.com)
+- [Spectacle](http://spectacleapp.com/)
+- [Atom](https://atom.io/)
+- [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12)
+- [Rdio](http://www.rdio.com/home/en-us/#apps)
+- [iA Writer](https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12)
