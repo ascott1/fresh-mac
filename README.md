@@ -1,5 +1,5 @@
 # fresh-mac
-> Guide for how I set up a new machine
+> A guide to how I set up a new machine
 
 OS X 10.10
 
@@ -73,7 +73,7 @@ brew doctor && brew update
 
 ## Git
 
-git comes pre-installed on OS X, but let's use the homebrew version so we can update it when necessary.
+git comes pre-installed on OS X (or maybe bundled with the XCode dev tools), but let's use the homebrew version so we can update it when necessary.
 
 ```bash
 brew install git
@@ -116,7 +116,16 @@ nvm install iojs
 nvm alias default stable # set the stable version of node as the default in any new shell
 ```
 
-## Dotfiles
+## iTerm2 & Dotfiles
+
+- Download the [iTerm2 color schemes](http://iterm2colorschemes.com/)
+- `./dotfiles` contains some sensible default settings, based on those [put together by my coworkers](https://github.com/cfpb/dotfiles)
+
+
+## Code font
+
+Download [Input](http://input.fontbureau.com/) and set InputMono as the default typeface in Atom and iTerm2.
+
 
 ## Applications to install
 
@@ -131,3 +140,4 @@ nvm alias default stable # set the stable version of node as the default in any 
 - [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12)
 - [Rdio](http://www.rdio.com/home/en-us/#apps)
 - [iA Writer](https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12)
+- [Day One](https://itunes.apple.com/us/app/day-one/id422304217?mt=12)
