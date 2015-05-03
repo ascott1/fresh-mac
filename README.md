@@ -3,7 +3,7 @@
 
 OS X 10.10
 
-## Step 1: System Preferences
+## System Preferences
 
 ### Desktop and Screensaver
 
@@ -38,7 +38,7 @@ Remove all notifications from:
 
 - Uncheck: `Show day of the week`
 
-## Step 2: Install Xcode
+## Install Xcode
 
 - Install Xcode from the App store
 - Open Xcode and accept the terms and conditions
