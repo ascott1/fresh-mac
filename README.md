@@ -118,7 +118,7 @@ nvm alias default stable # set the stable version of node as the default in any 
 
 ## Ruby
 
-Install `rvm` and Ruby 2.2.2
+Install `rvm`, Ruby 2.2.2, and Jekyll
 
 ```
 brew install rbenv ruby-build
@@ -132,6 +132,9 @@ rbenv install 2.2.2
 rbenv global 2.2.2
 ruby -v
 
+# Install Jekyll
+
+gem install jekyll
 ```
 
 ## iTerm2 & Dotfiles
