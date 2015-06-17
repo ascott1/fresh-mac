@@ -122,6 +122,28 @@ nvm alias default stable # set the stable version of node as the default in any 
 npm adduser
 ```
 
+## Ruby
+
+Install `rvm`, Ruby 2.2.2, and Jekyll
+
+```
+brew install rbenv ruby-build
+
+# Add rbenv to bash so that it loads every time you open a terminal
+echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
+source ~/.bash_profile
+
+# Install Ruby
+rbenv install 2.2.2
+rbenv global 2.2.2
+ruby -v
+
+# Install Jekyll
+
+gem install jekyll
+>>>>>>> 300dfe7ab37f5bffdbad5ba0d7bc0c1d2b4af2fc
+```
+
 ## iTerm2 & Dotfiles
 
 - Download the [iTerm2 color schemes](http://iterm2colorschemes.com/)
