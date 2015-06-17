@@ -116,6 +116,12 @@ nvm install iojs
 nvm alias default stable # set the stable version of node as the default in any new shell
 ```
 
+### Setup npm publish
+
+```bash
+npm adduser
+```
+
 ## iTerm2 & Dotfiles
 
 - Download the [iTerm2 color schemes](http://iterm2colorschemes.com/)
