@@ -141,7 +141,6 @@ ruby -v
 # Install Jekyll
 
 gem install jekyll
->>>>>>> 300dfe7ab37f5bffdbad5ba0d7bc0c1d2b4af2fc
 ```
 
 ## iTerm2 & Dotfiles
