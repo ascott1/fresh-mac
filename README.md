@@ -141,6 +141,7 @@ ruby -v
 # Install Jekyll
 
 gem install jekyll
+rbenv rehash
 ```
 
 ## iTerm2 & Dotfiles
